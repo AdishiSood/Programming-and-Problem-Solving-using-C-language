@@ -5,6 +5,7 @@
 - Loops
 - Pyramids and Patterns
 - Recursion
+- Bit Manipulation
 
 **Note:**
 
