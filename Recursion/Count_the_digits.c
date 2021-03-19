@@ -2,13 +2,11 @@
 Write a program in C to count the digits of a given number using recursion.
 */
 #include<stdio.h>
-
 int noOfDigits(int n1);
 int main()
 {
   int n1,ctr;
     printf("\n\n count the digits of a given number :\n");
-	printf("-----------------------------------------\n");
     printf(" Input  a number : ");
     scanf("%d",&n1);
 
